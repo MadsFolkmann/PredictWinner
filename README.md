@@ -1,2 +1,2 @@
 # PredictWinner
-With this python code you can predict football matches
+With this python code you can predict premier league football matches
